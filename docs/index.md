@@ -1,3 +1,3 @@
 # Playground docs
 
-Documentation for tinyqueue and logslice.
+Documentation for [tinyqueue](tinyqueue.md) and [logslice](logslice.md).
