@@ -2,3 +2,4 @@ site_name: Playground docs
 nav:
   - Home: index.md
   - tinyqueue: tinyqueue.md
+  - logslice: logslice.md
